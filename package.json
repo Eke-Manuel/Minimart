@@ -1,0 +1,12 @@
+{
+  "name": "Minimart",
+  "version": "1.0.0",
+  "description": "Simple cli billing application",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "go run src/main.go src/sections.go src/bill.go"
+  },
+  "author": "",
+  "license": "GPL 3.0 or Later"
+}
